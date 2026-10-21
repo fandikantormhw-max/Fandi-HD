@@ -1,0 +1,6 @@
+{
+  "name": "LaporPro - Sistem Laporan Harian, Bulanan & Tahunan",
+  "description": "Aplikasi manajemen dan analitik pelaporan komprehensif harian, bulanan, dan tahunan untuk aktivitas kerja, performa KPI, dan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
